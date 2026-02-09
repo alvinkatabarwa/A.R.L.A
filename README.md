@@ -1,4 +1,7 @@
 # A.R.L.A
+
+Repo Link: [https://github.com/alvinkatabarwa/A.R.L.A](url)
+Video Link : [https://youtu.be/uzcnyTxTHSs?si=lkR1NZ4mERTuGEC9](url)
 This Repo presents an initial interactive prototype of an AR‑based learning application, designed to validate interaction flows and learning logic prior to full AR implementation in Unity
 
 
