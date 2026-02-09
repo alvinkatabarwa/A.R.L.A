@@ -106,6 +106,9 @@ Tools & Technologies**
 
 - Open the Figma link provided and use the prototype play button to navigate through the full learning flow from onboarding to solution feedback.
 
+[https://www.figma.com/design/CbrbBxsyTWeI57NzRvTdGC/ARLA-FIGMA-PROTOTYPE?node-id=0-1&p=f&t=EnKDbMIPnEnk32T4-0
+](url)
+
 **Video Demo
 A 5–10 minute demonstration video showcasing:
 **
